@@ -7,6 +7,7 @@ disponible = True
 string = "Cadena de Texto" 
 int = 21313 # Numero Enteros
 float = 3.14 # Numeros decimales
+booleano = True # Booleanos
 
 
 # Verificación de tipos de datos.
